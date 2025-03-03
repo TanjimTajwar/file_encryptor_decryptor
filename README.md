@@ -1,2 +1,5 @@
-# file_encryptor_decryptor
-Here I will Update my work of Operating System Project.
+# File Encryptor & Decryptor
+
+This project implements a **multi-threaded** file encryption and decryption system in Java.
+
+## 📁 Project Structure
